@@ -3,7 +3,7 @@
 ## Felipe Delatorre
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-felipe/lab36-applicationState/pull/1)
 * [connectToStore](https://codesandbox.io/s/lab-36-connecttoastore-hi1x8)  
 * [createAReducer](https://codesandbox.io/s/lab-36-createareducer-ypu6v)
 
