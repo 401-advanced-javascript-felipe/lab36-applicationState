@@ -8,17 +8,17 @@
 * [createAReducer](https://codesandbox.io/s/lab-36-createareducer-ypu6v)
 
 #### Documentation
-* [styleguide] `npm run styleguide` For each assingment
+* [styleguide] `npm run styleguide` - For each assingment
 
 ### Modules
 CreateAReducer `Numbers.js`
 
 `mapStateToProps = state => gets state from the store`
+
 `mapDispatchToProps = (dispatch, getState) => gets function from the store`
 
 #### Running the app
 * `npm start`
 
 #### UML
-![](./assets/----.jpg)
-# lab36-applicationState
+![](./assets/lab36.jpg)
